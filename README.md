@@ -7,7 +7,7 @@ This project allows you to swap faces from a source image with faces detected in
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Model Download](#modeldownload)
+- [Model](#model)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [License](#license)
