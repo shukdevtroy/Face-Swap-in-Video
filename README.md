@@ -11,6 +11,7 @@ This project allows you to swap faces from a source image with faces detected in
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [License](#license)
+- [Demo](#demo)
 
 ## Features
 
@@ -91,6 +92,10 @@ swap_faces_in_video('path_to_source_image.jpg', 'path_to_input_video.mp4', 'path
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Demo
+
+[Click to view the demo app](https://shukdevdatta123-insightface-face-swapper-on-video.hf.space)
 
 ## Contact
 
