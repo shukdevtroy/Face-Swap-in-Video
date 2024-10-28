@@ -50,7 +50,7 @@ pip install numpy opencv-python insightface
 
 3. Download the necessary models if they are not automatically downloaded. The code will handle model downloads when executed.
 
-## Model Download
+## Model
 
 **InsightFace Model**: [Click to here to download the model file](https://drive.google.com/file/d/190gxPPj8yQX6qL-NAava3XqD4MWT0av_/view?usp=sharing)
 
